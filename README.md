@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kin018&label=Profile%20views&color=0e75b6&style=flat" alt="kin018" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azixcodes&label=Profile%20views&color=0e75b6&style=flat" alt="aziz" /> </p>
 
 - 🔭 I’m currently working on **my AWS Solutions Architect certification**
 
