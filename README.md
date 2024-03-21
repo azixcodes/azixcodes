@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **JavaScript, React, PHP & MySQL**
 
-- 📫 How to reach me **aziz_khan42@outlook.com**
 
  
 
